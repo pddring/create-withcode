@@ -2,7 +2,7 @@
 Contributors: pddring
 Tags: code, python, createwithcode, computing, cs, teaching
 Requires at least: 3.2
-Tested up to: 4.5
+Tested up to: 4.8
 Stable tag: 1.0
 License: GPLv2
 
