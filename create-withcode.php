@@ -12,7 +12,7 @@ if ( !function_exists( 'add_action' ) ) {
 	exit;
 }
 
-add_shortcode("withcode", withcode_sc);
+add_shortcode("withcode", 'withcode_sc');
 function withcode_sc($atts){
     $a = shortcode_atts( array(
         'id' => 'T',

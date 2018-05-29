@@ -1,9 +1,10 @@
 === Create with Code ===
 Contributors: pddring
+Donate link: paypal.me/pddring
 Tags: code, python, createwithcode, computing, cs, teaching
 Requires at least: 3.2
 Tested up to: 4.9
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2
 
 Create with code lets you quickly embed and run your python projects in your website / blog
@@ -31,6 +32,9 @@ You can also specifiy the height / width of the code snipped:
 Upload the create-withcode plugin to your blog, Activate it and add a shortcode to any page / post
 
 == Changelog ==
+
+= 1.1 = 
+*Release Date - 29th May 2018*
 
 = 1.0 =
 *Release Date - 14 April 2016*
