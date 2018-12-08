@@ -3,7 +3,7 @@
 Plugin Name: Create with code
 Plugin URI: https://github.com/pddring/create-withcode
 Description: Share and run python code from create.withcode.uk with a shortcode
-Version: 1.0
+Version: 1.1
 Author: Pete Dring
 Author URI: http://blog.withcode.uk
 License: GPL2

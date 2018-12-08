@@ -3,7 +3,7 @@ Contributors: pddring
 Donate link: paypal.me/pddring
 Tags: code, python, createwithcode, computing, cs, teaching
 Requires at least: 3.2
-Tested up to: 4.9
+Tested up to: 5.0
 Stable tag: 1.1
 License: GPLv2
 
